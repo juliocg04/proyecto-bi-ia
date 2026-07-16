@@ -1,0 +1,14 @@
+{
+    "na123": {
+        "nombre": "nayeli huaylla",
+        "password_hash": "$2b$12$b8th1DVciPoN57oRHQf7wOLofzr7qlWVCaIpv35ptUhjlbSKijgf2",
+        "secreto_2fa": "YXL6WA7ZBHKL6QGKYUPCSDYAOTPLFXXK",
+        "rol": "admin"
+    },
+    "cristian": {
+        "nombre": "cristian chorrillos",
+        "password_hash": "$2b$12$D5crOTGiqPHiBCHscUrzjuqYkMSMNbfpVopg3JdW/CIzv.DUvLN2y",
+        "secreto_2fa": "4SPJVYAD4RKA4AEYXJ2MAOI6CU6E72X6",
+        "rol": "admin"
+    }
+}
