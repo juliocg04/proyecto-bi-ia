@@ -1064,7 +1064,7 @@ def dashboard():
         st.subheader("📊 Dashboard Ejecutivo BI + IA — Gasto Público 2025")
         st.caption("Módulo externo con análisis de ejecución presupuestal, correlación con el PBI sectorial y proyecciones con IA.")
 
-        url_dashboard_gasto = "https://drive.google.com/drive/folders/1EGyh-FX8C3vVV2ix6INJCUuLaww69HFw?usp=drive_link"
+        url_dashboard_gasto = "https://streamlit.app"
 
         st.link_button("🚀 Abrir Dashboard Ejecutivo de Gasto Público", url_dashboard_gasto, use_container_width=True)
 
